@@ -69,7 +69,7 @@
   line-height: 0;
   width: 50px!important;
   height: 50px!important;
-  font-weight: 700;
+  font-weight: 800;
     font-family: Arial;
     color: black;
 }
@@ -77,7 +77,7 @@
 .rd-time-selected,
 .rd-time-option:hover {
   cursor: pointer;
-  background-color: #f5815d;
+  background-color: #1c1a45;
   color: #fff;
   /* new */
   border-radius: 50%;
