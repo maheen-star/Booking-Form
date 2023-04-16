@@ -65,6 +65,7 @@ ul {
   margin: auto;
   padding-top: 8px;
   border-radius: 5px;
+  padding: 20px;
 }
 .inner h3 {
   text-transform: uppercase;
