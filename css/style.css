@@ -387,6 +387,10 @@ li.active:before {
     padding-top: 0;
     padding-bottom: 0;
     margin: 0;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   form {
