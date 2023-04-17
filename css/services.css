@@ -3,7 +3,7 @@
 }
 .list-1{
     display: flex;
-    gap: 10px;
+    gap: 15px;
     margin-bottom: 20px;
 }
 /* .center {
@@ -16,7 +16,7 @@
    */
   .article-card {
     width: 160px;
-    height: 200px;
+    height: 210px;
     border-radius: 12px;
     overflow: hidden;
     position: relative;
