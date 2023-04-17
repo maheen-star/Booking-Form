@@ -51,7 +51,9 @@
   .article-card .title {
     margin: 0;
   }
-
+.article-card img:hover{
+    background-color: #1c1a45;
+  }
   
   .article-card .title {
     font-size: 14px;
